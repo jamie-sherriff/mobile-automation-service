@@ -1,0 +1,6 @@
+//return _this.elementByIosUIAutomation('.getFirstWithPredicate("label == \'' + text + '\'")');
+(wd): driver.elementByAndroidUIAutomator('new UiSelector().resourceIdMatches(".*button.*")')
+
+'new UiSelector().resourceIdMatches("(?i).*shutter_button.*")'; //android emulator camera button
+'com.android.camera:id/btn_retake'; //android emulator retake photo button
+ //var androidEmulatorCancel = 'new UiSelector().className("android.widget.TextView").text("CANCEL")';

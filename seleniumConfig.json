@@ -1,0 +1,6 @@
+{
+  "seleniumHubUrl":"http://localhost:4500/grid",
+  "seleniumHubPort":"4500",
+  "seleniumVersion":"2.50.1",
+  "chromeDriverVersion":"2.21"
+}

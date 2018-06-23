@@ -1,0 +1,5 @@
+chrome://inspect and open "Open dedicated DevTools for Node"
+node --inspect-brk
+
+Also can use
+npm install -g inspect-process
